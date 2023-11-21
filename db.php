@@ -3,7 +3,7 @@
 $host = "localhost"; //server name
 $user = "root";     //user
 $pass = "";         //password
-$database = "";     //database name
+$database = "SDG";     //database name
 
 //establishing connection
 $conn = mysqli_connect($host, $user, $pass, $database);
