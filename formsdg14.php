@@ -42,7 +42,7 @@ include '../../includes/db.php';?>
                 <li class="text-center"><button class="btn btn-dark w-100 mb-2" id="res566"> Childcare facilities for students</button></li>
                 <li class="text-center"><button class="btn btn-dark w-100 mb-2" id="res567"> Childcare facilities for staff and faculty</button></li>
                 <li class="text-center"><button class="btn btn-dark w-100 mb-2" id="res568"> Women's mentoring schemes</button></li>
-                <li class="text-center"><button class="btn btn-dark w-100 mb-2" id="res568"> Policies protecting those reporting discrimination</button></li>
+                <li class="text-center"><button class="btn btn-dark w-100 mb-2" id="res569"> Policies protecting those reporting discrimination</button></li>
                 <li class="text-center"><button class="btn btn-dark w-100 mb-2" id="res5610"> Reports against discrimination</button></li>
                 <li class="text-center"><button class="btn btn-dark w-100 mb-2" id="res571"> GAD Focal Point System</button></li>
                 <li class="text-center"><button class="btn btn-dark w-100 mb-2" id="res572"> Committee on Decorum and Investigation CODI</button></li>
