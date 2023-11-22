@@ -61,10 +61,6 @@ include '../../includes/db.php';?>
                 <li class="text-center"><button class="btn btn-dark w-100 mb-2" id="res5101"> Courses integrated with gender perspective</button></li>
                 <li class="text-center"><button class="btn btn-dark w-100 mb-2" id="res5111"> Extension PPAs integradted with gender perspective</button></li>
 
-
-                
-
-
             </ul>
         </div>
         <div class=" bg-white border border-3 border-dark mt-5 w-100">
