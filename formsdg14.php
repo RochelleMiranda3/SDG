@@ -975,44 +975,23 @@ include '../../includes/db.php';?>
 
                             <div class="input-group mb-3">
                                 <span class="input-group-text"><i class=""></i></span>
-                                <input type="text" class="form-control" placeholder="Total number of collaborations with health institutions" name="title">
+                                <input type="text" class="form-control" placeholder="Total number of conducted GAD observances" name="title">
                             </div>
                             <div class="input-group mb-3">
                                 <span class="input-group-text"><i class=""></i></span>
-                                <input type="text" class="form-control" placeholder="Total number of local collaborations" name="title">
+                                <input type="text" class="form-control" placeholder="Title of the PPA" name="author">
                             </div>
                             <div class="input-group mb-3">
                                 <span class="input-group-text"><i class=""></i></span>
-                                <input type="text" class="form-control" placeholder="Total number of national collaborations" name="author">
+                                <input type="text" class="form-control" placeholder="Short Description of the PPA" name="year_pub">
                             </div>
                             <div class="input-group mb-3">
                                 <span class="input-group-text"><i class=""></i></span>
-                                <input type="text" class="form-control" placeholder="Total number of global collaborations" name="year_pub">
+                                <input type="text" class="form-control" placeholder="Total Cost" name="no_clinical">
                             </div>
-                            <p class="text-center lead">List of collaborations with health institutions</p>
                             <div class="input-group mb-3">
                                 <span class="input-group-text"><i class="bi bi-envelope"></i></span>
-                                <input type="email" class="form-control" placeholder="Name of health institution" name="no_clinical">
-                            </div>
-                            <div class="input-group mb-3">
-                                <span class="input-group-text"><i class="bi bi-building"></i></span>
-                                <input type="text" class="form-control" placeholder="Categorized as local, national, global" name="no_citations">
-                            </div>
-                            <div class="input-group mb-3">
-                                <span class="input-group-text"><i class="bi bi-building"></i></span>
-                                <input type="text" class="form-control" placeholder="Number of years in collaboration" name="no_citations">
-                            </div>
-                            <div class="input-group mb-3">
-                                <span class="input-group-text"><i class="bi bi-building"></i></span>
-                                <input type="text" class="form-control" placeholder="Title and description of collab project" name="no_citations">
-                            </div>
-                            <div class="input-group mb-3">
-                                <span class="input-group-text"><i class="bi bi-building"></i></span>
-                                <input type="text" class="form-control" placeholder="Total cost" name="no_citations">
-                            </div>
-                            <div class="input-group mb-3">
-                                <span class="input-group-text"><i class="bi bi-building"></i></span>
-                                <input type="text" class="form-control" placeholder="Fund source" name="no_citations">
+                                <input type="email" class="form-control" placeholder="Fund Source" name="no_citations">
                             </div>
                             <div class="d-grid">
                                 <button type="submit" class="btn btn-success mb-3" name="submit">Add
@@ -1028,44 +1007,15 @@ include '../../includes/db.php';?>
 
                             <div class="input-group mb-3">
                                 <span class="input-group-text"><i class=""></i></span>
-                                <input type="text" class="form-control" placeholder="Total number of collaborations with health institutions" name="title">
+                                <input type="text" class="form-control" placeholder="Total number of GAD IEC Materials produced and disseminated" name="title">
                             </div>
                             <div class="input-group mb-3">
                                 <span class="input-group-text"><i class=""></i></span>
-                                <input type="text" class="form-control" placeholder="Total number of local collaborations" name="title">
+                                <input type="text" class="form-control" placeholder="Total cost" name="author">
                             </div>
                             <div class="input-group mb-3">
                                 <span class="input-group-text"><i class=""></i></span>
-                                <input type="text" class="form-control" placeholder="Total number of national collaborations" name="author">
-                            </div>
-                            <div class="input-group mb-3">
-                                <span class="input-group-text"><i class=""></i></span>
-                                <input type="text" class="form-control" placeholder="Total number of global collaborations" name="year_pub">
-                            </div>
-                            <p class="text-center lead">List of collaborations with health institutions</p>
-                            <div class="input-group mb-3">
-                                <span class="input-group-text"><i class="bi bi-envelope"></i></span>
-                                <input type="email" class="form-control" placeholder="Name of health institution" name="no_clinical">
-                            </div>
-                            <div class="input-group mb-3">
-                                <span class="input-group-text"><i class="bi bi-building"></i></span>
-                                <input type="text" class="form-control" placeholder="Categorized as local, national, global" name="no_citations">
-                            </div>
-                            <div class="input-group mb-3">
-                                <span class="input-group-text"><i class="bi bi-building"></i></span>
-                                <input type="text" class="form-control" placeholder="Number of years in collaboration" name="no_citations">
-                            </div>
-                            <div class="input-group mb-3">
-                                <span class="input-group-text"><i class="bi bi-building"></i></span>
-                                <input type="text" class="form-control" placeholder="Title and description of collab project" name="no_citations">
-                            </div>
-                            <div class="input-group mb-3">
-                                <span class="input-group-text"><i class="bi bi-building"></i></span>
-                                <input type="text" class="form-control" placeholder="Total cost" name="no_citations">
-                            </div>
-                            <div class="input-group mb-3">
-                                <span class="input-group-text"><i class="bi bi-building"></i></span>
-                                <input type="text" class="form-control" placeholder="Fund source" name="no_citations">
+                                <input type="text" class="form-control" placeholder="Total number of other IEC materials reviewed for the use of gender-fair languange and images" name="year_pub">
                             </div>
                             <div class="d-grid">
                                 <button type="submit" class="btn btn-success mb-3" name="submit">Add
@@ -1081,44 +1031,15 @@ include '../../includes/db.php';?>
 
                             <div class="input-group mb-3">
                                 <span class="input-group-text"><i class=""></i></span>
-                                <input type="text" class="form-control" placeholder="Total number of collaborations with health institutions" name="title">
+                                <input type="text" class="form-control" placeholder="Total number of purchased GAD-related printed books" name="title">
                             </div>
                             <div class="input-group mb-3">
                                 <span class="input-group-text"><i class=""></i></span>
-                                <input type="text" class="form-control" placeholder="Total number of local collaborations" name="title">
+                                <input type="text" class="form-control" placeholder="Total number of purchased GAD-related e-sources books" name="author">
                             </div>
                             <div class="input-group mb-3">
                                 <span class="input-group-text"><i class=""></i></span>
-                                <input type="text" class="form-control" placeholder="Total number of national collaborations" name="author">
-                            </div>
-                            <div class="input-group mb-3">
-                                <span class="input-group-text"><i class=""></i></span>
-                                <input type="text" class="form-control" placeholder="Total number of global collaborations" name="year_pub">
-                            </div>
-                            <p class="text-center lead">List of collaborations with health institutions</p>
-                            <div class="input-group mb-3">
-                                <span class="input-group-text"><i class="bi bi-envelope"></i></span>
-                                <input type="email" class="form-control" placeholder="Name of health institution" name="no_clinical">
-                            </div>
-                            <div class="input-group mb-3">
-                                <span class="input-group-text"><i class="bi bi-building"></i></span>
-                                <input type="text" class="form-control" placeholder="Categorized as local, national, global" name="no_citations">
-                            </div>
-                            <div class="input-group mb-3">
-                                <span class="input-group-text"><i class="bi bi-building"></i></span>
-                                <input type="text" class="form-control" placeholder="Number of years in collaboration" name="no_citations">
-                            </div>
-                            <div class="input-group mb-3">
-                                <span class="input-group-text"><i class="bi bi-building"></i></span>
-                                <input type="text" class="form-control" placeholder="Title and description of collab project" name="no_citations">
-                            </div>
-                            <div class="input-group mb-3">
-                                <span class="input-group-text"><i class="bi bi-building"></i></span>
-                                <input type="text" class="form-control" placeholder="Total cost" name="no_citations">
-                            </div>
-                            <div class="input-group mb-3">
-                                <span class="input-group-text"><i class="bi bi-building"></i></span>
-                                <input type="text" class="form-control" placeholder="Fund source" name="no_citations">
+                                <input type="text" class="form-control" placeholder="Total amount utilized" name="year_pub">
                             </div>
                             <div class="d-grid">
                                 <button type="submit" class="btn btn-success mb-3" name="submit">Add
@@ -1134,44 +1055,7 @@ include '../../includes/db.php';?>
 
                             <div class="input-group mb-3">
                                 <span class="input-group-text"><i class=""></i></span>
-                                <input type="text" class="form-control" placeholder="Total number of collaborations with health institutions" name="title">
-                            </div>
-                            <div class="input-group mb-3">
-                                <span class="input-group-text"><i class=""></i></span>
-                                <input type="text" class="form-control" placeholder="Total number of local collaborations" name="title">
-                            </div>
-                            <div class="input-group mb-3">
-                                <span class="input-group-text"><i class=""></i></span>
-                                <input type="text" class="form-control" placeholder="Total number of national collaborations" name="author">
-                            </div>
-                            <div class="input-group mb-3">
-                                <span class="input-group-text"><i class=""></i></span>
-                                <input type="text" class="form-control" placeholder="Total number of global collaborations" name="year_pub">
-                            </div>
-                            <p class="text-center lead">List of collaborations with health institutions</p>
-                            <div class="input-group mb-3">
-                                <span class="input-group-text"><i class="bi bi-envelope"></i></span>
-                                <input type="email" class="form-control" placeholder="Name of health institution" name="no_clinical">
-                            </div>
-                            <div class="input-group mb-3">
-                                <span class="input-group-text"><i class="bi bi-building"></i></span>
-                                <input type="text" class="form-control" placeholder="Categorized as local, national, global" name="no_citations">
-                            </div>
-                            <div class="input-group mb-3">
-                                <span class="input-group-text"><i class="bi bi-building"></i></span>
-                                <input type="text" class="form-control" placeholder="Number of years in collaboration" name="no_citations">
-                            </div>
-                            <div class="input-group mb-3">
-                                <span class="input-group-text"><i class="bi bi-building"></i></span>
-                                <input type="text" class="form-control" placeholder="Title and description of collab project" name="no_citations">
-                            </div>
-                            <div class="input-group mb-3">
-                                <span class="input-group-text"><i class="bi bi-building"></i></span>
-                                <input type="text" class="form-control" placeholder="Total cost" name="no_citations">
-                            </div>
-                            <div class="input-group mb-3">
-                                <span class="input-group-text"><i class="bi bi-building"></i></span>
-                                <input type="text" class="form-control" placeholder="Fund source" name="no_citations">
+                                <input type="text" class="form-control" placeholder="Total number of courses integrated with gender perspective" name="title">
                             </div>
                             <div class="d-grid">
                                 <button type="submit" class="btn btn-success mb-3" name="submit">Add
@@ -1187,44 +1071,23 @@ include '../../includes/db.php';?>
 
                             <div class="input-group mb-3">
                                 <span class="input-group-text"><i class=""></i></span>
-                                <input type="text" class="form-control" placeholder="Total number of collaborations with health institutions" name="title">
+                                <input type="text" class="form-control" placeholder="Total number of extension PPAs integradted with gender perspective" name="title">
                             </div>
                             <div class="input-group mb-3">
                                 <span class="input-group-text"><i class=""></i></span>
-                                <input type="text" class="form-control" placeholder="Total number of local collaborations" name="title">
+                                <input type="text" class="form-control" placeholder="Title of the PPA" name="author">
                             </div>
                             <div class="input-group mb-3">
                                 <span class="input-group-text"><i class=""></i></span>
-                                <input type="text" class="form-control" placeholder="Total number of national collaborations" name="author">
+                                <input type="text" class="form-control" placeholder="Short Description of the PPA" name="year_pub">
                             </div>
                             <div class="input-group mb-3">
                                 <span class="input-group-text"><i class=""></i></span>
-                                <input type="text" class="form-control" placeholder="Total number of global collaborations" name="year_pub">
-                            </div>
-                            <p class="text-center lead">List of collaborations with health institutions</p>
-                            <div class="input-group mb-3">
-                                <span class="input-group-text"><i class="bi bi-envelope"></i></span>
-                                <input type="email" class="form-control" placeholder="Name of health institution" name="no_clinical">
+                                <input type="text" class="form-control" placeholder="Total Cost" name="total_cost">
                             </div>
                             <div class="input-group mb-3">
                                 <span class="input-group-text"><i class="bi bi-building"></i></span>
-                                <input type="text" class="form-control" placeholder="Categorized as local, national, global" name="no_citations">
-                            </div>
-                            <div class="input-group mb-3">
-                                <span class="input-group-text"><i class="bi bi-building"></i></span>
-                                <input type="text" class="form-control" placeholder="Number of years in collaboration" name="no_citations">
-                            </div>
-                            <div class="input-group mb-3">
-                                <span class="input-group-text"><i class="bi bi-building"></i></span>
-                                <input type="text" class="form-control" placeholder="Title and description of collab project" name="no_citations">
-                            </div>
-                            <div class="input-group mb-3">
-                                <span class="input-group-text"><i class="bi bi-building"></i></span>
-                                <input type="text" class="form-control" placeholder="Total cost" name="no_citations">
-                            </div>
-                            <div class="input-group mb-3">
-                                <span class="input-group-text"><i class="bi bi-building"></i></span>
-                                <input type="text" class="form-control" placeholder="Fund source" name="no_citations">
+                                <input type="text" class="form-control" placeholder="Fund source" name="fund_source">
                             </div>
                             <div class="d-grid">
                                 <button type="submit" class="btn btn-success mb-3" name="submit">Add
