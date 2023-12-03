@@ -9,7 +9,7 @@ if($_SERVER['REQUEST_METHOD'] === 'POST'){
     $description_ppa = $_POST['`description_ppa` '];
     $total_cost1 = $_POST['total_cost1'];
     $fund_source1 = $_POST['fund_source1'];
-    $no_mentoring_female_employees = $_POST[''];
+    $no_mentoring_female_employees = $_POST['no_mentoring_female_employees'];
     $title_ppa2 = $_POST['title_ppa2'];
     $short_description = $_POST['short_description'];
     $total_cost2 = $_POST['total_cost2'];
